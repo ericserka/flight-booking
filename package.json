@@ -1,0 +1,17 @@
+{
+  "name": "flight-booking",
+  "version": "1.0.0",
+  "description": "Flight booking system that demonstrates the application of classic design patterns.",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
