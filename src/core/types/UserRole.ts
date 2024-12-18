@@ -1,0 +1,11 @@
+export type UserRole =
+  | 'guest'
+  | 'customer'
+  | 'travel_agent'
+  | 'admin'
+  | 'support'
+  | 'manager'
+  | 'flight_crew'
+  | 'check_in'
+  | 'billing'
+  | 'developer'    
